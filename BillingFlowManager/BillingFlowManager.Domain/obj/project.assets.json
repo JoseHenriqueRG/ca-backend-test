@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joseh\\source\\repos\\ca-backend-test\\BillingFlowManager\\BillingFlowManager.Domain\\BillingFlowManager.Domain.csproj",
-      "projectName": "BillingFlowManager.Domain",
-      "projectPath": "C:\\Users\\joseh\\source\\repos\\ca-backend-test\\BillingFlowManager\\BillingFlowManager.Domain\\BillingFlowManager.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\joseh\\source\\repos\\ca-backend-test\\BillingFlowManager\\BillingFlowManager.Domain\\BillingManagementSystem.Domain.csproj",
+      "projectName": "BillingManagementSystem.Domain",
+      "projectPath": "C:\\Users\\joseh\\source\\repos\\ca-backend-test\\BillingFlowManager\\BillingFlowManager.Domain\\BillingManagementSystem.Domain.csproj",
       "packagesPath": "C:\\Users\\joseh\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\joseh\\source\\repos\\ca-backend-test\\BillingFlowManager\\BillingFlowManager.Domain\\obj\\",
       "projectStyle": "PackageReference",

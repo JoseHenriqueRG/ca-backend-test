@@ -1491,14 +1491,14 @@
           }
         }
       },
-      "BillingFlowManager.Domain/1.0.0": {
+      "BillingManagementSystem.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "compile": {
-          "bin/placeholder/BillingFlowManager.Domain.dll": {}
+          "bin/placeholder/BillingManagementSystem.Domain.dll": {}
         },
         "runtime": {
-          "bin/placeholder/BillingFlowManager.Domain.dll": {}
+          "bin/placeholder/BillingManagementSystem.Domain.dll": {}
         }
       }
     }
@@ -4069,15 +4069,15 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "BillingFlowManager.Domain/1.0.0": {
+    "BillingManagementSystem.Domain/1.0.0": {
       "type": "project",
-      "path": "../BillingFlowManager.Domain/BillingFlowManager.Domain.csproj",
-      "msbuildProject": "../BillingFlowManager.Domain/BillingFlowManager.Domain.csproj"
+      "path": "../BillingFlowManager.Domain/BillingManagementSystem.Domain.csproj",
+      "msbuildProject": "../BillingFlowManager.Domain/BillingManagementSystem.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "BillingFlowManager.Domain >= 1.0.0",
+      "BillingManagementSystem.Domain >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 8.0.8",
       "Microsoft.EntityFrameworkCore.Design >= 8.0.8",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.8"
@@ -4089,9 +4089,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joseh\\source\\repos\\ca-backend-test\\BillingFlowManager\\BillingFlowManager.Infra\\BillingFlowManager.Infra.csproj",
-      "projectName": "BillingFlowManager.Infra",
-      "projectPath": "C:\\Users\\joseh\\source\\repos\\ca-backend-test\\BillingFlowManager\\BillingFlowManager.Infra\\BillingFlowManager.Infra.csproj",
+      "projectUniqueName": "C:\\Users\\joseh\\source\\repos\\ca-backend-test\\BillingFlowManager\\BillingFlowManager.Infra\\BillingManagementSystem.Infra.csproj",
+      "projectName": "BillingManagementSystem.Infra",
+      "projectPath": "C:\\Users\\joseh\\source\\repos\\ca-backend-test\\BillingFlowManager\\BillingFlowManager.Infra\\BillingManagementSystem.Infra.csproj",
       "packagesPath": "C:\\Users\\joseh\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\joseh\\source\\repos\\ca-backend-test\\BillingFlowManager\\BillingFlowManager.Infra\\obj\\",
       "projectStyle": "PackageReference",
@@ -4111,8 +4111,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\joseh\\source\\repos\\ca-backend-test\\BillingFlowManager\\BillingFlowManager.Domain\\BillingFlowManager.Domain.csproj": {
-              "projectPath": "C:\\Users\\joseh\\source\\repos\\ca-backend-test\\BillingFlowManager\\BillingFlowManager.Domain\\BillingFlowManager.Domain.csproj"
+            "C:\\Users\\joseh\\source\\repos\\ca-backend-test\\BillingFlowManager\\BillingFlowManager.Domain\\BillingManagementSystem.Domain.csproj": {
+              "projectPath": "C:\\Users\\joseh\\source\\repos\\ca-backend-test\\BillingFlowManager\\BillingFlowManager.Domain\\BillingManagementSystem.Domain.csproj"
             }
           }
         }

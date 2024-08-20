@@ -1,0 +1,12 @@
+C:\Users\joseh\source\repos\ca-backend-test\BillingManagementSystem\BillingManagementSystem.Domain\bin\Debug\net8.0\BillingManagementSystem.Domain.deps.json
+C:\Users\joseh\source\repos\ca-backend-test\BillingManagementSystem\BillingManagementSystem.Domain\bin\Debug\net8.0\BillingManagementSystem.Domain.dll
+C:\Users\joseh\source\repos\ca-backend-test\BillingManagementSystem\BillingManagementSystem.Domain\bin\Debug\net8.0\BillingManagementSystem.Domain.pdb
+C:\Users\joseh\source\repos\ca-backend-test\BillingManagementSystem\BillingManagementSystem.Domain\obj\Debug\net8.0\BillingManagementSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joseh\source\repos\ca-backend-test\BillingManagementSystem\BillingManagementSystem.Domain\obj\Debug\net8.0\BillingManagementSystem.Domain.AssemblyInfoInputs.cache
+C:\Users\joseh\source\repos\ca-backend-test\BillingManagementSystem\BillingManagementSystem.Domain\obj\Debug\net8.0\BillingManagementSystem.Domain.AssemblyInfo.cs
+C:\Users\joseh\source\repos\ca-backend-test\BillingManagementSystem\BillingManagementSystem.Domain\obj\Debug\net8.0\BillingManagementSystem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\joseh\source\repos\ca-backend-test\BillingManagementSystem\BillingManagementSystem.Domain\obj\Debug\net8.0\BillingManagementSystem.Domain.sourcelink.json
+C:\Users\joseh\source\repos\ca-backend-test\BillingManagementSystem\BillingManagementSystem.Domain\obj\Debug\net8.0\BillingManagementSystem.Domain.dll
+C:\Users\joseh\source\repos\ca-backend-test\BillingManagementSystem\BillingManagementSystem.Domain\obj\Debug\net8.0\refint\BillingManagementSystem.Domain.dll
+C:\Users\joseh\source\repos\ca-backend-test\BillingManagementSystem\BillingManagementSystem.Domain\obj\Debug\net8.0\BillingManagementSystem.Domain.pdb
+C:\Users\joseh\source\repos\ca-backend-test\BillingManagementSystem\BillingManagementSystem.Domain\obj\Debug\net8.0\ref\BillingManagementSystem.Domain.dll

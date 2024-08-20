@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "e+1PkWSjx6qC/jOCu2dmZ9JBQuTauBnrkvg+5xHv7Ug=",
+  "Source": "BillingManagementSystem.WebApi",
+  "BasePath": "_content/BillingManagementSystem.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

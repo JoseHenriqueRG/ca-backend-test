@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BillingManagementSystem.WebApi</name>
+    </assembly>
+    <members>
+        <member name="M:BillingManagementSystem.WebApi.Controllers.BillingsController.Insert(BillingManagementSystem.Domain.ViewModels.BillingViewModel)">
+            <summary>
+            Insere uma nova fatura.
+            </summary>
+        </member>
+        <member name="M:BillingManagementSystem.WebApi.Controllers.BillingsController.GetAll">
+            <summary>
+            Lista todas as faturas.
+            </summary>
+        </member>
+        <member name="M:BillingManagementSystem.WebApi.Controllers.CustomersController.Get(System.Guid)">
+            <summary>
+            Obtém um cliente.
+            </summary>
+            <param name="Id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BillingManagementSystem.WebApi.Controllers.CustomersController.GetAll">
+            <summary>
+            Lista todos os clientes.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BillingManagementSystem.WebApi.Controllers.CustomersController.Delete(BillingManagementSystem.Domain.Entities.Customer)">
+            <summary>
+            Exclui um cliente.
+            </summary>
+        </member>
+        <member name="M:BillingManagementSystem.WebApi.Controllers.CustomersController.Insert(BillingManagementSystem.Domain.Entities.Customer)">
+            <summary>
+            Adiciona um cliente.
+            </summary>
+        </member>
+        <member name="M:BillingManagementSystem.WebApi.Controllers.CustomersController.Update(BillingManagementSystem.Domain.Entities.Customer)">
+            <summary>
+            Edita um cliente.
+            </summary>
+        </member>
+        <member name="M:BillingManagementSystem.WebApi.Controllers.ProductsController.Get(System.Guid)">
+            <summary>
+            Obtém um produto.
+            </summary>
+        </member>
+        <member name="M:BillingManagementSystem.WebApi.Controllers.ProductsController.GetAll">
+            <summary>
+            Lista todos os produtos.
+            </summary>
+        </member>
+        <member name="M:BillingManagementSystem.WebApi.Controllers.ProductsController.Delete(BillingManagementSystem.Domain.Entities.Product)">
+            <summary>
+            Exclui um produto.
+            </summary>
+        </member>
+        <member name="M:BillingManagementSystem.WebApi.Controllers.ProductsController.Insert(BillingManagementSystem.Domain.Entities.Product)">
+            <summary>
+            Adiciona um produto.
+            </summary>
+        </member>
+        <member name="M:BillingManagementSystem.WebApi.Controllers.ProductsController.Update(BillingManagementSystem.Domain.Entities.Product)">
+            <summary>
+            Altera um produto.
+            </summary>
+        </member>
+    </members>
+</doc>

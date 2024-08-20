@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joseh\\source\\repos\\ca-backend-test\\BillingFlowManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A46E3775-6F1D-436B-9500-72693DCD8B3D}|BillingFlowManager.WebApi\\BillingFlowManager.WebApi.csproj|c:\\users\\joseh\\source\\repos\\ca-backend-test\\billingflowmanager\\billingflowmanager.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46E3775-6F1D-436B-9500-72693DCD8B3D}|BillingFlowManager.WebApi\\BillingFlowManager.WebApi.csproj|solutionrelative:billingflowmanager.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37898ABE-DFD1-4E43-92B3-5F4C1BD77306}|BillingFlowManager.Domain\\BillingFlowManager.Domain.csproj|c:\\users\\joseh\\source\\repos\\ca-backend-test\\billingflowmanager\\billingflowmanager.domain\\entities\\billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37898ABE-DFD1-4E43-92B3-5F4C1BD77306}|BillingFlowManager.Domain\\BillingFlowManager.Domain.csproj|solutionrelative:billingflowmanager.domain\\entities\\billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46E3775-6F1D-436B-9500-72693DCD8B3D}|BillingFlowManager.WebApi\\BillingFlowManager.WebApi.csproj|c:\\users\\joseh\\source\\repos\\ca-backend-test\\billingflowmanager\\billingflowmanager.webapi\\controllers\\billingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46E3775-6F1D-436B-9500-72693DCD8B3D}|BillingFlowManager.WebApi\\BillingFlowManager.WebApi.csproj|solutionrelative:billingflowmanager.webapi\\controllers\\billingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37898ABE-DFD1-4E43-92B3-5F4C1BD77306}|BillingFlowManager.Domain\\BillingFlowManager.Domain.csproj|c:\\users\\joseh\\source\\repos\\ca-backend-test\\billingflowmanager\\billingflowmanager.domain\\entities\\billinglines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37898ABE-DFD1-4E43-92B3-5F4C1BD77306}|BillingFlowManager.Domain\\BillingFlowManager.Domain.csproj|solutionrelative:billingflowmanager.domain\\entities\\billinglines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CA07E5-3FE4-4814-85D8-906D1F75C1E9}|BillingFlowManager.Infra\\BillingFlowManager.Infra.csproj|c:\\users\\joseh\\source\\repos\\ca-backend-test\\billingflowmanager\\billingflowmanager.infra\\repository\\repositorybilling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13CA07E5-3FE4-4814-85D8-906D1F75C1E9}|BillingFlowManager.Infra\\BillingFlowManager.Infra.csproj|solutionrelative:billingflowmanager.infra\\repository\\repositorybilling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CA07E5-3FE4-4814-85D8-906D1F75C1E9}|BillingFlowManager.Infra\\BillingFlowManager.Infra.csproj|c:\\users\\joseh\\source\\repos\\ca-backend-test\\billingflowmanager\\billingflowmanager.infra\\repository\\repositoryproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13CA07E5-3FE4-4814-85D8-906D1F75C1E9}|BillingFlowManager.Infra\\BillingFlowManager.Infra.csproj|solutionrelative:billingflowmanager.infra\\repository\\repositoryproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CA07E5-3FE4-4814-85D8-906D1F75C1E9}|BillingFlowManager.Infra\\BillingFlowManager.Infra.csproj|c:\\users\\joseh\\source\\repos\\ca-backend-test\\billingflowmanager\\billingflowmanager.infra\\repository\\repositorydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13CA07E5-3FE4-4814-85D8-906D1F75C1E9}|BillingFlowManager.Infra\\BillingFlowManager.Infra.csproj|solutionrelative:billingflowmanager.infra\\repository\\repositorydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46E3775-6F1D-436B-9500-72693DCD8B3D}|BillingFlowManager.WebApi\\BillingFlowManager.WebApi.csproj|c:\\users\\joseh\\source\\repos\\ca-backend-test\\billingflowmanager\\billingflowmanager.webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46E3775-6F1D-436B-9500-72693DCD8B3D}|BillingFlowManager.WebApi\\BillingFlowManager.WebApi.csproj|solutionrelative:billingflowmanager.webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46E3775-6F1D-436B-9500-72693DCD8B3D}|BillingFlowManager.WebApi\\BillingFlowManager.WebApi.csproj|c:\\users\\joseh\\source\\repos\\ca-backend-test\\billingflowmanager\\billingflowmanager.webapi\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46E3775-6F1D-436B-9500-72693DCD8B3D}|BillingFlowManager.WebApi\\BillingFlowManager.WebApi.csproj|solutionrelative:billingflowmanager.webapi\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37898ABE-DFD1-4E43-92B3-5F4C1BD77306}|BillingFlowManager.Domain\\BillingFlowManager.Domain.csproj|c:\\users\\joseh\\source\\repos\\ca-backend-test\\billingflowmanager\\billingflowmanager.domain\\interfaces\\ibillingapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37898ABE-DFD1-4E43-92B3-5F4C1BD77306}|BillingFlowManager.Domain\\BillingFlowManager.Domain.csproj|solutionrelative:billingflowmanager.domain\\interfaces\\ibillingapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CA07E5-3FE4-4814-85D8-906D1F75C1E9}|BillingFlowManager.Infra\\BillingFlowManager.Infra.csproj|c:\\users\\joseh\\source\\repos\\ca-backend-test\\billingflowmanager\\billingflowmanager.infra\\externalservices\\billingapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13CA07E5-3FE4-4814-85D8-906D1F75C1E9}|BillingFlowManager.Infra\\BillingFlowManager.Infra.csproj|solutionrelative:billingflowmanager.infra\\externalservices\\billingapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CA07E5-3FE4-4814-85D8-906D1F75C1E9}|BillingFlowManager.Infra\\BillingFlowManager.Infra.csproj|c:\\users\\joseh\\source\\repos\\ca-backend-test\\billingflowmanager\\billingflowmanager.infra\\repository\\repositorycustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13CA07E5-3FE4-4814-85D8-906D1F75C1E9}|BillingFlowManager.Infra\\BillingFlowManager.Infra.csproj|solutionrelative:billingflowmanager.infra\\repository\\repositorycustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37898ABE-DFD1-4E43-92B3-5F4C1BD77306}|BillingFlowManager.Domain\\BillingFlowManager.Domain.csproj|c:\\users\\joseh\\source\\repos\\ca-backend-test\\billingflowmanager\\billingflowmanager.domain\\interfaces\\irepositorybilling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37898ABE-DFD1-4E43-92B3-5F4C1BD77306}|BillingFlowManager.Domain\\BillingFlowManager.Domain.csproj|solutionrelative:billingflowmanager.domain\\interfaces\\irepositorybilling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37898ABE-DFD1-4E43-92B3-5F4C1BD77306}|BillingFlowManager.Domain\\BillingFlowManager.Domain.csproj|c:\\users\\joseh\\source\\repos\\ca-backend-test\\billingflowmanager\\billingflowmanager.domain\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37898ABE-DFD1-4E43-92B3-5F4C1BD77306}|BillingFlowManager.Domain\\BillingFlowManager.Domain.csproj|solutionrelative:billingflowmanager.domain\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46E3775-6F1D-436B-9500-72693DCD8B3D}|BillingFlowManager.WebApi\\BillingManagementSystem.WebApi.csproj|c:\\users\\joseh\\source\\repos\\ca-backend-test\\billingflowmanager\\billingflowmanager.webapi\\billingmanagementsystem.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A46E3775-6F1D-436B-9500-72693DCD8B3D}|BillingFlowManager.WebApi\\BillingManagementSystem.WebApi.csproj|solutionrelative:billingflowmanager.webapi\\billingmanagementsystem.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37898ABE-DFD1-4E43-92B3-5F4C1BD77306}|BillingFlowManager.Domain\\BillingFlowManager.Domain.csproj|c:\\users\\joseh\\source\\repos\\ca-backend-test\\billingflowmanager\\billingflowmanager.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37898ABE-DFD1-4E43-92B3-5F4C1BD77306}|BillingFlowManager.Domain\\BillingFlowManager.Domain.csproj|solutionrelative:billingflowmanager.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RepositoryBilling.cs",
+              "DocumentMoniker": "C:\\Users\\joseh\\source\\repos\\ca-backend-test\\BillingFlowManager\\BillingFlowManager.Infra\\Repository\\RepositoryBilling.cs",
+              "RelativeDocumentMoniker": "BillingFlowManager.Infra\\Repository\\RepositoryBilling.cs",
+              "ToolTip": "C:\\Users\\joseh\\source\\repos\\ca-backend-test\\BillingFlowManager\\BillingFlowManager.Infra\\Repository\\RepositoryBilling.cs",
+              "RelativeToolTip": "BillingFlowManager.Infra\\Repository\\RepositoryBilling.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAIBJwBQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T21:45:23.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RepositoryDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\joseh\\source\\repos\\ca-backend-test\\BillingFlowManager\\BillingFlowManager.Infra\\Repository\\RepositoryDBContext.cs",
+              "RelativeDocumentMoniker": "BillingFlowManager.Infra\\Repository\\RepositoryDBContext.cs",
+              "ToolTip": "C:\\Users\\joseh\\source\\repos\\ca-backend-test\\BillingFlowManager\\BillingFlowManager.Infra\\Repository\\RepositoryDBContext.cs",
+              "RelativeToolTip": "BillingFlowManager.Infra\\Repository\\RepositoryDBContext.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAwB0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T22:05:03.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RepositoryProduct.cs",
+              "DocumentMoniker": "C:\\Users\\joseh\\source\\repos\\ca-backend-test\\BillingFlowManager\\BillingFlowManager.Infra\\Repository\\RepositoryProduct.cs",
+              "RelativeDocumentMoniker": "BillingFlowManager.Infra\\Repository\\RepositoryProduct.cs",
+              "ToolTip": "C:\\Users\\joseh\\source\\repos\\ca-backend-test\\BillingFlowManager\\BillingFlowManager.Infra\\Repository\\RepositoryProduct.cs",
+              "RelativeToolTip": "BillingFlowManager.Infra\\Repository\\RepositoryProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T22:18:28.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joseh\\source\\repos\\ca-backend-test\\BillingFlowManager\\BillingFlowManager.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "BillingFlowManager.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\joseh\\source\\repos\\ca-backend-test\\BillingFlowManager\\BillingFlowManager.WebApi\\Program.cs",
+              "RelativeToolTip": "BillingFlowManager.WebApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T23:41:39.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RepositoryCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\joseh\\source\\repos\\ca-backend-test\\BillingFlowManager\\BillingFlowManager.Infra\\Repository\\RepositoryCustomer.cs",
+              "RelativeDocumentMoniker": "BillingFlowManager.Infra\\Repository\\RepositoryCustomer.cs",
+              "ToolTip": "C:\\Users\\joseh\\source\\repos\\ca-backend-test\\BillingFlowManager\\BillingFlowManager.Infra\\Repository\\RepositoryCustomer.cs",
+              "RelativeToolTip": "BillingFlowManager.Infra\\Repository\\RepositoryCustomer.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAEBVwEsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T21:45:23.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BillingsController.cs",
+              "DocumentMoniker": "C:\\Users\\joseh\\source\\repos\\ca-backend-test\\BillingFlowManager\\BillingFlowManager.WebApi\\Controllers\\BillingsController.cs",
+              "RelativeDocumentMoniker": "BillingFlowManager.WebApi\\Controllers\\BillingsController.cs",
+              "ToolTip": "C:\\Users\\joseh\\source\\repos\\ca-backend-test\\BillingFlowManager\\BillingFlowManager.WebApi\\Controllers\\BillingsController.cs",
+              "RelativeToolTip": "BillingFlowManager.WebApi\\Controllers\\BillingsController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAwEMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T21:45:14.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Billing.cs",
+              "DocumentMoniker": "C:\\Users\\joseh\\source\\repos\\ca-backend-test\\BillingFlowManager\\BillingFlowManager.Domain\\Entities\\Billing.cs",
+              "RelativeDocumentMoniker": "BillingFlowManager.Domain\\Entities\\Billing.cs",
+              "ToolTip": "C:\\Users\\joseh\\source\\repos\\ca-backend-test\\BillingFlowManager\\BillingFlowManager.Domain\\Entities\\Billing.cs",
+              "RelativeToolTip": "BillingFlowManager.Domain\\Entities\\Billing.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAUwBIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T21:46:51.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BillingLines.cs",
+              "DocumentMoniker": "C:\\Users\\joseh\\source\\repos\\ca-backend-test\\BillingFlowManager\\BillingFlowManager.Domain\\Entities\\BillingLines.cs",
+              "RelativeDocumentMoniker": "BillingFlowManager.Domain\\Entities\\BillingLines.cs",
+              "ToolTip": "C:\\Users\\joseh\\source\\repos\\ca-backend-test\\BillingFlowManager\\BillingFlowManager.Domain\\Entities\\BillingLines.cs",
+              "RelativeToolTip": "BillingFlowManager.Domain\\Entities\\BillingLines.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAIBJwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T00:24:40.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\joseh\\source\\repos\\ca-backend-test\\BillingFlowManager\\BillingFlowManager.WebApi\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "BillingFlowManager.WebApi\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\joseh\\source\\repos\\ca-backend-test\\BillingFlowManager\\BillingFlowManager.WebApi\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "BillingFlowManager.WebApi\\Controllers\\CustomersController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAIBJwFYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T21:45:03.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\joseh\\source\\repos\\ca-backend-test\\BillingFlowManager\\BillingFlowManager.WebApi\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "BillingFlowManager.WebApi\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\joseh\\source\\repos\\ca-backend-test\\BillingFlowManager\\BillingFlowManager.WebApi\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "BillingFlowManager.WebApi\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAIBJwEsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T21:44:58.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IBillingApi.cs",
+              "DocumentMoniker": "C:\\Users\\joseh\\source\\repos\\ca-backend-test\\BillingFlowManager\\BillingFlowManager.Domain\\Interfaces\\IBillingApi.cs",
+              "RelativeDocumentMoniker": "BillingFlowManager.Domain\\Interfaces\\IBillingApi.cs",
+              "ToolTip": "C:\\Users\\joseh\\source\\repos\\ca-backend-test\\BillingFlowManager\\BillingFlowManager.Domain\\Interfaces\\IBillingApi.cs",
+              "RelativeToolTip": "BillingFlowManager.Domain\\Interfaces\\IBillingApi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T00:15:15.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BillingApi.cs",
+              "DocumentMoniker": "C:\\Users\\joseh\\source\\repos\\ca-backend-test\\BillingFlowManager\\BillingFlowManager.Infra\\ExternalServices\\BillingApi.cs",
+              "RelativeDocumentMoniker": "BillingFlowManager.Infra\\ExternalServices\\BillingApi.cs",
+              "ToolTip": "C:\\Users\\joseh\\source\\repos\\ca-backend-test\\BillingFlowManager\\BillingFlowManager.Infra\\ExternalServices\\BillingApi.cs",
+              "RelativeToolTip": "BillingFlowManager.Infra\\ExternalServices\\BillingApi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T00:37:59.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BillingFlowManager.WebApi.csproj",
+              "DocumentMoniker": "C:\\Users\\joseh\\source\\repos\\ca-backend-test\\BillingFlowManager\\BillingFlowManager.WebApi\\BillingManagementSystem.WebApi.csproj",
+              "RelativeDocumentMoniker": "BillingFlowManager.WebApi\\BillingManagementSystem.WebApi.csproj",
+              "ToolTip": "C:\\Users\\joseh\\source\\repos\\ca-backend-test\\BillingFlowManager\\BillingFlowManager.WebApi\\BillingManagementSystem.WebApi.csproj",
+              "RelativeToolTip": "BillingFlowManager.WebApi\\BillingManagementSystem.WebApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-19T23:55:51.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IRepositoryBilling.cs",
+              "DocumentMoniker": "C:\\Users\\joseh\\source\\repos\\ca-backend-test\\BillingFlowManager\\BillingFlowManager.Domain\\Interfaces\\IRepositoryBilling.cs",
+              "RelativeDocumentMoniker": "BillingFlowManager.Domain\\Interfaces\\IRepositoryBilling.cs",
+              "ToolTip": "C:\\Users\\joseh\\source\\repos\\ca-backend-test\\BillingFlowManager\\BillingFlowManager.Domain\\Interfaces\\IRepositoryBilling.cs",
+              "RelativeToolTip": "BillingFlowManager.Domain\\Interfaces\\IRepositoryBilling.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T22:16:34.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\joseh\\source\\repos\\ca-backend-test\\BillingFlowManager\\BillingFlowManager.Domain\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "BillingFlowManager.Domain\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\joseh\\source\\repos\\ca-backend-test\\BillingFlowManager\\BillingFlowManager.Domain\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "BillingFlowManager.Domain\\Interfaces\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T00:20:19.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\joseh\\source\\repos\\ca-backend-test\\BillingFlowManager\\BillingFlowManager.Domain\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "BillingFlowManager.Domain\\Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\joseh\\source\\repos\\ca-backend-test\\BillingFlowManager\\BillingFlowManager.Domain\\Entities\\Customer.cs",
+              "RelativeToolTip": "BillingFlowManager.Domain\\Entities\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T22:05:21.945Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
