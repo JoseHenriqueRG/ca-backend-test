@@ -1,0 +1,12 @@
+C:\Users\joseh\source\repos\ca-backend-test\BillingFlowManager\BillingFlowManager.Domain\bin\Debug\net8.0\BillingFlowManager.Domain.deps.json
+C:\Users\joseh\source\repos\ca-backend-test\BillingFlowManager\BillingFlowManager.Domain\bin\Debug\net8.0\BillingFlowManager.Domain.dll
+C:\Users\joseh\source\repos\ca-backend-test\BillingFlowManager\BillingFlowManager.Domain\bin\Debug\net8.0\BillingFlowManager.Domain.pdb
+C:\Users\joseh\source\repos\ca-backend-test\BillingFlowManager\BillingFlowManager.Domain\obj\Debug\net8.0\BillingFlowManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joseh\source\repos\ca-backend-test\BillingFlowManager\BillingFlowManager.Domain\obj\Debug\net8.0\BillingFlowManager.Domain.AssemblyInfoInputs.cache
+C:\Users\joseh\source\repos\ca-backend-test\BillingFlowManager\BillingFlowManager.Domain\obj\Debug\net8.0\BillingFlowManager.Domain.AssemblyInfo.cs
+C:\Users\joseh\source\repos\ca-backend-test\BillingFlowManager\BillingFlowManager.Domain\obj\Debug\net8.0\BillingFlowManager.Domain.csproj.CoreCompileInputs.cache
+C:\Users\joseh\source\repos\ca-backend-test\BillingFlowManager\BillingFlowManager.Domain\obj\Debug\net8.0\BillingFlowManager.Domain.sourcelink.json
+C:\Users\joseh\source\repos\ca-backend-test\BillingFlowManager\BillingFlowManager.Domain\obj\Debug\net8.0\BillingFlowManager.Domain.dll
+C:\Users\joseh\source\repos\ca-backend-test\BillingFlowManager\BillingFlowManager.Domain\obj\Debug\net8.0\refint\BillingFlowManager.Domain.dll
+C:\Users\joseh\source\repos\ca-backend-test\BillingFlowManager\BillingFlowManager.Domain\obj\Debug\net8.0\BillingFlowManager.Domain.pdb
+C:\Users\joseh\source\repos\ca-backend-test\BillingFlowManager\BillingFlowManager.Domain\obj\Debug\net8.0\ref\BillingFlowManager.Domain.dll

@@ -1,0 +1,6 @@
+@BillingFlowManager.WebApi_HostAddress = http://localhost:5216
+
+GET {{BillingFlowManager.WebApi_HostAddress}}/billing/
+Accept: application/json
+
+###
