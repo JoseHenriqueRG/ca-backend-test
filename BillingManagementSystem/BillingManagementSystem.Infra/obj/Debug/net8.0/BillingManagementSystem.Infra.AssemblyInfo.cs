@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BillingManagementSystem.Infra")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cdc431011c5f261d0c66d6c6bf35bfb2055fb675")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff5a98010ba67b15c8a92bf54e4678022550192d")]
 [assembly: System.Reflection.AssemblyProductAttribute("BillingManagementSystem.Infra")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BillingManagementSystem.Infra")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

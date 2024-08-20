@@ -16,3 +16,4 @@ C:\Users\joseh\source\repos\ca-backend-test\BillingManagementSystem\BillingManag
 C:\Users\joseh\source\repos\ca-backend-test\BillingManagementSystem\BillingManagementSystem.Infra\obj\Debug\net8.0\BillingManagementSystem.Infra.pdb
 C:\Users\joseh\source\repos\ca-backend-test\BillingManagementSystem\BillingManagementSystem.Infra\obj\Debug\net8.0\BillingManagementSystem.Infra.genruntimeconfig.cache
 C:\Users\joseh\source\repos\ca-backend-test\BillingManagementSystem\BillingManagementSystem.Infra\obj\Debug\net8.0\ref\BillingManagementSystem.Infra.dll
+C:\Users\joseh\source\repos\ca-backend-test\BillingManagementSystem\BillingManagementSystem.Infra\bin\Debug\net8.0\Database.mdf

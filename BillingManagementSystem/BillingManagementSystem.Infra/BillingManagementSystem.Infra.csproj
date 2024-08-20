@@ -21,7 +21,7 @@
 
   <ItemGroup>
     <None Update="Database.mdf">
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
   </ItemGroup>
 

@@ -1,6 +1,7 @@
 C:\Users\joseh\source\repos\ca-backend-test\BillingManagementSystem\BillingManagementSystem.WebApi\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\joseh\source\repos\ca-backend-test\BillingManagementSystem\BillingManagementSystem.WebApi\bin\Debug\net8.0\appsettings.json
 C:\Users\joseh\source\repos\ca-backend-test\BillingManagementSystem\BillingManagementSystem.WebApi\bin\Debug\net8.0\BillingManagementSystem.WebApi.exe
+C:\Users\joseh\source\repos\ca-backend-test\BillingManagementSystem\BillingManagementSystem.WebApi\bin\Debug\net8.0\Database.mdf
 C:\Users\joseh\source\repos\ca-backend-test\BillingManagementSystem\BillingManagementSystem.WebApi\bin\Debug\net8.0\BillingManagementSystem.WebApi.deps.json
 C:\Users\joseh\source\repos\ca-backend-test\BillingManagementSystem\BillingManagementSystem.WebApi\bin\Debug\net8.0\BillingManagementSystem.WebApi.runtimeconfig.json
 C:\Users\joseh\source\repos\ca-backend-test\BillingManagementSystem\BillingManagementSystem.WebApi\bin\Debug\net8.0\BillingManagementSystem.WebApi.dll

@@ -19,9 +19,7 @@ namespace BillingManagementSystem.Infra.Repository
             var relativePath = @"Database.mdf";
             var absolutePath = Path.Combine(baseDirectory, relativePath);
 
-            //var connectionString = $@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename={absolutePath};Integrated Security=True";
-
-            var connectionString = $@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\joseh\source\repos\ca-backend-test\BillingManagementSystem\BillingManagementSystem.Infra\Database.mdf;Integrated Security=True";
+            var connectionString = $@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename={absolutePath};Integrated Security=True";
 
             optionsBuilder.UseSqlServer(connectionString);
 
